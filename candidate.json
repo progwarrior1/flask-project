@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Adela hendricks",
+    "picture": "https://avatars.mds.yandex.net/i?id=3235d6732e3c1e303eb7427349be6c1468679eb9-5652108-images-thumbs&n=13",
+    "position": "Go developer",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Maxim Zaycev",
+    "picture": "https://avatars.mds.yandex.net/i?id=dec8208c2f1600677b329901fb82858b0f9e004c-12528217-images-thumbs&n=13",
+    "position": "data engineer",
+    "gender": "male",
+    "age": 35,
+    "skills": "java, python"
+  },
+  {
+    "id": 3,
+    "name": "Elmira Hopkins",
+    "picture": "https://avatars.mds.yandex.net/i?id=54160ef13aa10491a2003dc17b4108da08c7f5e0-4120171-images-thumbs&n=13",
+    "position": "android dev",
+    "gender": "female",
+    "age": 21,
+    "skills": "go, c++"
+  },
+  {
+    "id": 4,
+    "name": "Samir Tukmak",
+    "picture": "https://avatars.mds.yandex.net/i?id=c2ca421c797309a82dafc3a7232a6f2d6e894e1f7c05b189-11464670-images-thumbs&n=13",
+    "position": "web-developer",
+    "gender": "male",
+    "age": 47,
+    "skills": "django, python, kotlin"
+  },
+  {
+    "id": 5,
+    "name": "Dima Krasnov",
+    "picture": "https://avatars.mds.yandex.net/i?id=dec8208c2f1600677b329901fb82858b0f9e004c-12528217-images-thumbs&n=13",
+    "position": "data analytic",
+    "gender": "male",
+    "age": 35,
+    "skills": "c++, flask"
+  }
+]
